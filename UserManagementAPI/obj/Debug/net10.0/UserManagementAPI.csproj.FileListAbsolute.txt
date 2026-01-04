@@ -6,6 +6,7 @@ C:\Users\Gabriel P\Documents\api\UserManagementAPI\obj\Debug\net10.0\UserManagem
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.csproj.CoreCompileInputs.cache
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel P\Documents\api\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.sourcelink.json
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\appsettings.json
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\UserManagementAPI.staticwebassets.endpoints.json
@@ -14,7 +15,6 @@ C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\UserManagem
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\UserManagementAPI.runtimeconfig.json
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\UserManagementAPI.dll
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\UserManagementAPI.pdb
-C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Gabriel P\Documents\api\UserManagementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
